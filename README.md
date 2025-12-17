@@ -13,8 +13,7 @@ The dataset used for this analysis was generated using **Synthea™**, an open-s
 **Database Schema:**
 
 
-![Dashboard Preview](dashboard_screenshot.png)
-
+![Dashboard Overview](https://github.com/tasnia-sunehara/SQL-Based-Hospital-Analysis-/blob/main/Db%20Schema.png)
 
 The analysis focuses on 5 core tables simulating a hospital database:
 
